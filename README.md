@@ -26,6 +26,6 @@ Below is a descrption of how each of the follow features were implemented
 
 ## Results
 
+![Alt Text](sphere.mov)
 ![Alt Text](sphere_rendered.mov)
-![Alt Text](gifs/good_render.gif)
 
