@@ -26,6 +26,6 @@ Below is a descrption of how each of the follow features were implemented
 
 ## Results
 
-![Alt Text](blender_videos/sphere0001-0700.mp4)
+![Alt Text](good_render.mp4)
 ![Alt Text](gifs/good_render.gif)
 
